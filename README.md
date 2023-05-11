@@ -1,4 +1,4 @@
-# odo App
+# Todo App
 
 ## Instructions
 
@@ -24,7 +24,3 @@
 - Create a function called `addNewTodo` which will recieve a parameter called `todo` and add it to the `currentTodos` if the todo element was validated through `validateTodo` function.
 - Create a function called `uncheckTodo` which will recieve a parameter called `undo` which is an index of a todo in the `doneTodos` array. Remove the todo on the given index and push it to the `currentTodos`.
 - Create a function called `editTodo` which will recieve three parameters, `index`, `todoList` and `updatedTodo` and update the correct todo with the new value of `updatedTodo`.
-# TASK-JS-Extra-Functions-And-Arrays
-# TASK-JS-Extra-Functions-And-Arrays
-# TASK-JS-Extra-Functions-And-Arrays
-# TASK-JS-Extra-Functions-And-Arrays
